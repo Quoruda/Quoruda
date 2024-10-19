@@ -4,7 +4,11 @@ I am passionate about computer science, and I love building projects from scratc
 
 ## [ 👁️ Game of life](https://github.com/Quoruda/GameOfLife)
 A simple implementation of the Game of Life in Java following the MVC pattern.
+![Screen]
 
+<p align="center">
+	<a href="https://github.com/Quoruda/GameOfLife"><img src="https://github.com/Quoruda/GameOfLife/blob/main/images/screen.png" width="500"></a>
+</p>
 
 ## [ :video_game: 3D Engine](https://github.com/Quoruda/3D-Engine)
 This project is a 3D rendering engine in Java using only the CPU.
