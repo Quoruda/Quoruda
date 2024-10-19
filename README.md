@@ -7,11 +7,16 @@ A simple implementation of the Game of Life in Java following the MVC pattern.
 ![Screen]
 
 <p align="center">
-	<a href="https://github.com/Quoruda/GameOfLife"><img src="https://github.com/Quoruda/GameOfLife/blob/main/images/screen.png" width="500"></a>
+	<a href="https://github.com/Quoruda/GameOfLife"><img src="https://github.com/Quoruda/GameOfLife/blob/main/images/screen.png" width="400"></a>
 </p>
 
 ## [ :video_game: 3D Engine](https://github.com/Quoruda/3D-Engine)
 This project is a 3D rendering engine in Java using only the CPU.
+
+<p align="center">
+	<a href="https://github.com/Quoruda/3D-Engine"><img src="https://github.com/Quoruda/3D-Engine/blob/main/images/thumbnail.gif" width="400"></a>
+</p>
+
 
 ## [ 📋 Algorithm ToolBox](https://github.com/Quoruda/AlgorithmToolbox)
 In this repository, I  implement algorithms that will serve as modular building blocks for easy reuse in various projects.
