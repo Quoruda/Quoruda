@@ -8,6 +8,9 @@
 ## 👤 About me
 
 I am currently studying computer science and I love building projects from the ground up. Here, you'll find my projects, created to share ideas, collaborate with other developers, and contribute to the open-source ecosystem. My goal is to combine creativity, learning, and visibility in the world of development.
+
+Feel free to explore my repositories, ask questions, or collaborate on a project! 🚀
+
 <!--
 ---
 
@@ -15,10 +18,10 @@ I am currently studying computer science and I love building projects from the g
 - [Mail](#)  
 - [Personal Portfolio](#)
 -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Quoruda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Quoruda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-Feel free to explore my repositories, ask questions, or collaborate on a project! 🚀
 
 ## 📂 Projects 
 
