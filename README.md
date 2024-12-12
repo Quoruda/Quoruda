@@ -28,20 +28,20 @@ Krab is a minimalist programming language designed as a personal challenge. It i
 
 <p align="center">
 	<a href="https://github.com/Quoruda/KrabLanguage">
-		<img src="images/Krab.png" width="400px">
+		<img src="images/Krab.png" width="500px">
 	</a>
 </p>
 
 ### [ :video_game: 3D Engine (2024)](https://github.com/Quoruda/3D-Engine)
 3D-Engine is a minimalist 3D rendering engine built from scratch in Java. It supports importing .obj models, manipulating them (scale, rotation, position), and applying textures using UV mapping. Fully CPU-based, this project explores the fundamentals of graphics rendering without relying on a GPU. 🚀
 <p align="center">
-	<a href="https://github.com/Quoruda/3D-Engine"><img src="images/3dEngine.png" width="400"></a>
+	<a href="https://github.com/Quoruda/3D-Engine"><img src="images/3dEngine.png" width="500"></a>
 </p>
 
 ### [ 👁️ Game of life (2024)](https://github.com/Quoruda/GameOfLife)
 Thi is a Java project that recreates Conway's Game of Life. With support for .lif files, you can load predesigned structures or experiment with your own configurations to visualize the evolution of cellular automata.
 <p align="center">
-	<a href="https://github.com/Quoruda/GameOfLife"><img src="images/GameOfLife.png" width="400px"></a>
+	<a href="https://github.com/Quoruda/GameOfLife"><img src="images/GameOfLife.png" width="500px"></a>
 </p>
 
 
