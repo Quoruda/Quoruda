@@ -27,19 +27,18 @@ Feel free to explore my repositories, ask questions, or collaborate on a project
 ### [ 🦀 Krab Language](https://github.com/Quoruda/KrabLanguage)
 Krab is a minimalist programming language designed as a personal challenge. It is an interpreter written in Rust, inspired by Rust's mascot. Simplicity, flexibility, and minimalism are the guiding principles!
 
-
-<div style="background-color:#C6BBAC; width:400px; margin:0px auto; text-align:center; border-radius:10px">
+<p align="center">
 	<a href="https://github.com/Quoruda/KrabLanguage">
-		<img src="images/krab.webp" width="200" style="border-radius:10px">
+		<img src="images/Krab.png" width="400px" style="border-radius:10px">
 	</a>
-</div>
+</p>
 
 
 ### [ 👁️ Game of life](https://github.com/Quoruda/GameOfLife)
 A simple implementation of the Game of Life in Java following the MVC pattern.
 
 <p align="center">
-	<a href="https://github.com/Quoruda/GameOfLife"><img src="images/GameOfLife.png" width="400" style="border-radius:10px"></a>
+	<a href="https://github.com/Quoruda/GameOfLife"><img src="images/GameOfLife.png" width="400px" style="border-radius:10px"></a>
 </p>
 
 ### [ :video_game: 3D Engine](https://github.com/Quoruda/3D-Engine)
