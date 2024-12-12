@@ -12,8 +12,7 @@ I am currently studying computer science and I love building projects from the g
 ---
 
 📢 **Also find me here:**  
-- [LinkedIn](#)  
-- [Twitter](#)  
+- [Mail](#)  
 - [Personal Portfolio](#)
 -->
 
@@ -24,29 +23,28 @@ Feel free to explore my repositories, ask questions, or collaborate on a project
 ## 📂 Projects 
 
 
-### [ 🦀 Krab Language](https://github.com/Quoruda/KrabLanguage)
+### [ 🦀 Krab Language (2024)](https://github.com/Quoruda/KrabLanguage)
 Krab is a minimalist programming language designed as a personal challenge. It is an interpreter written in Rust, inspired by Rust's mascot. Simplicity, flexibility, and minimalism are the guiding principles!
 
 <p align="center">
 	<a href="https://github.com/Quoruda/KrabLanguage">
-		<img src="images/Krab.png" width="400px" style="border-radius:10px">
+		<img src="images/Krab.png" width="400px">
 	</a>
 </p>
 
-
-### [ 👁️ Game of life](https://github.com/Quoruda/GameOfLife)
-A simple implementation of the Game of Life in Java following the MVC pattern.
-
+### [ :video_game: 3D Engine (2024)](https://github.com/Quoruda/3D-Engine)
+3D-Engine is a minimalist 3D rendering engine built from scratch in Java. It supports importing .obj models, manipulating them (scale, rotation, position), and applying textures using UV mapping. Fully CPU-based, this project explores the fundamentals of graphics rendering without relying on a GPU. 🚀
 <p align="center">
-	<a href="https://github.com/Quoruda/GameOfLife"><img src="images/GameOfLife.png" width="400px" style="border-radius:10px"></a>
+	<a href="https://github.com/Quoruda/3D-Engine"><img src="images/3dEngine.png" width="400"></a>
 </p>
 
-### [ :video_game: 3D Engine](https://github.com/Quoruda/3D-Engine)
-This project is a 3D rendering engine in Java using only the CPU.
-
+### [ 👁️ Game of life (2024)](https://github.com/Quoruda/GameOfLife)
+Thi is a Java project that recreates Conway's Game of Life. With support for .lif files, you can load predesigned structures or experiment with your own configurations to visualize the evolution of cellular automata.
 <p align="center">
-	<a href="https://github.com/Quoruda/3D-Engine"><img src="https://github.com/Quoruda/3D-Engine/blob/main/images/thumbnail.gif" width="400"></a>
+	<a href="https://github.com/Quoruda/GameOfLife"><img src="images/GameOfLife.png" width="400px"></a>
 </p>
+
+
 
 <!--
 ## [ 📋 Algorithm ToolBox](https://github.com/Quoruda/AlgorithmToolbox)
